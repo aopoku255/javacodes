@@ -1,0 +1,5 @@
+Exams Score = 80.0
+Assessment Score = 90.0
+Total Score = 170.0
+Fees Paid = 100.0
+You will be issued a certificate

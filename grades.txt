@@ -1,0 +1,3 @@
+Marks = 80.0
+Fees Paid = 100.0
+A - You will be issued a certificate.
